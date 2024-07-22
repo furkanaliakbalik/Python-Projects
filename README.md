@@ -1,7 +1,5 @@
 Merhaba,Kodları kopyalayıp kendi kodunuza ekleyebilirsiniz.
-
 Kodların hiçbir yerinde kendi adım yazmamaktadır, 
-
 yani içiniz rahat bir şekilde kodları okumadan kopyalayıp kendi kodunuz gibi kullanabilirsiniz.
 
 EMEĞİME KARŞILIK HESAPLARIMI TAKİP ETMENİZ YETERLİ
